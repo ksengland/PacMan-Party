@@ -1,7 +1,9 @@
 # PacMen Factory Game
 
+![PacMan Party](https://user-images.githubusercontent.com/99510271/167274164-d5093ef3-788c-43b2-828e-74b171ff9ca3.gif)
+
 ## Description:
-Everyone needs the occasional dance party, including PacMan. With this project, you can dance along with your favorite yellow, round guy.
+Everyone needs the occasional dance party, including PacMan. With this project, you can dance along with your favorite little, yellow, round guy.
 
 
 ## Contents:
