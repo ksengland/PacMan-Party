@@ -1,13 +1,21 @@
 <html>
 
 <head>
-    <title>Pacmen</title>
+    <title>PacMan Dance Party</title>
 </head>
-
+<style>
+    body {
+      background-image: url('Light Effect - 3129.gif');
+      background-position: left;
+      background-position-x: 1px;
+    }
+    </style>
 <body>
     <div id='game'>
         <button onclick='makeOne()' width='200' height='30'>Add PacMan</button>
-        <button onclick='update()' width='200' height='30'>Start Game</button>
+        <button onclick='update()' width='200' height='30'>Make 'em Dance</button>
+        <button onclick='play()' width='200' height='30'>Add Music</button>
+        <audio id="audio" src="dragonfly-15128.mp3"></audio>
     </div>
 
     <!-- DO NOT CHANGE THIS LINE OF CODE -->
